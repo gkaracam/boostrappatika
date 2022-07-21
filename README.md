@@ -1,1 +1,1 @@
-## patika.dev Boostrap Ödev-1
+## patika.dev Bootstrap Ödev-1
